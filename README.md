@@ -2,9 +2,13 @@
 Projects in Sports Analytics, Football Analytics, Python, SQL and Power BI.
 # Sports Analytics Portfolio
 
-Hi! I'm Emilio Martínez.
+# Sports Analytics Portfolio
 
-I'm a Business Intelligence student at Tecnológico de Monterrey with a strong interest in Sports Analytics and Sports Technology.
+Welcome!
+
+I'm Emilio Martínez, a Business Intelligence student at Tecnológico de Monterrey passionate about Sports Analytics, Data Analytics and Sports Technology.
+
+This repository documents my journey toward becoming a Sports Data Analyst through real-world projects.
 
 ## Skills
 
@@ -14,15 +18,13 @@ I'm a Business Intelligence student at Tecnológico de Monterrey with a strong i
 - Excel
 - Data Visualization
 
-## Current Learning
+## Current Focus
 
+- Sports Analytics
 - Football Analytics
-- Performance Analysis
-- Sports Data
+- Product Analytics
+- Business Intelligence
 
-## Upcoming Projects
+## Projects
 
-- Liga MX Dashboard
-- Player Performance Analysis
-- Football Data Visualization
-- Expected Goals (xG)
+Coming soon 🚀
